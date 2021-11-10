@@ -1,0 +1,5 @@
+hub test
+shortLabel DMR
+longLabel DRM of PCDH gene family
+genomesFile genomes.txt
+email lihua.huang@link.cuhk.edu.hk
