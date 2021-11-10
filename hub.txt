@@ -1,4 +1,4 @@
-hub test
+hub DMR_viz
 shortLabel DMR
 longLabel DRM of PCDH gene family
 genomesFile genomes.txt
